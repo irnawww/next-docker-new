@@ -82,6 +82,7 @@ http://localhost:3000
 
 ## Output
 ### Jika berhasil dijalankan, aplikasi akan menampilkan halaman dengan tampilan berikut:
+<img width="572" height="241" alt="image" src="https://github.com/user-attachments/assets/fa5868dc-d320-4f1f-a210-2b89748fe5d5" />
 
 
 
